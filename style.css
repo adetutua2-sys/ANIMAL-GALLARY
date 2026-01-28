@@ -1,0 +1,182 @@
+div {
+    width: 290px;
+    border: 20px solid;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 4px 4px 10px;
+    color: #B3BFFF;
+    border-radius:30px;
+    display: inline-block;
+    
+}
+
+.killer {
+    width: 100%;
+      border-radius:30px;
+      align-items: center;
+}
+
+  p{
+    align-items: center;
+  }
+
+.lion {
+    width: 280px;
+    border: 20px solid;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 4px 4px 10px;
+    color: #B3BFFF;
+    border-radius:30px;
+}
+
+.king{
+      width: 100%;
+      border-radius:30px;
+      align-items: center;
+}
+
+.dog{
+    width: 280px;
+    border: 20px solid;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 4px 4px 10px;
+    color: #B3BFFF;
+    border-radius:30px;
+    
+}
+
+.cute {
+      width: 100%;
+      border-radius:30px;
+      align-items: center;
+}
+
+.whale {
+    width: 280px;
+    border: 20px solid;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 4px 4px 10px;
+    color: #B3BFFF;
+    border-radius:30px;
+    
+}
+
+.big_guy{
+      width: 100%;
+      border-radius:30px;
+      align-items: center;
+}
+
+
+.giraffe {
+    width: 280px;
+    border: 20px solid;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 4px 4px 10px;
+    color: #B3BFFF;
+    border-radius:30px;
+    
+}
+
+.long{
+      width: 100%;
+      border-radius:30px;
+      align-items: center;
+}
+
+.SHARK {
+    width: 280px;
+    border: 20px solid;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 4px 4px 10px;
+    color: #B3BFFF;
+    border-radius:30px;
+    
+}
+
+
+.teeth{
+      width: 100%;
+      border-radius:30px;
+      align-items: center;
+}
+
+
+.TIGER{
+    width: 280px;
+    border: 20px solid;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 4px 4px 10px;
+    color: #B3BFFF;
+    border-radius:30px;
+    
+}
+
+
+.STRIPES{
+      width: 100%;
+      border-radius:30px;
+      align-items: center;
+}
+
+.LEOPARD{
+    width: 280px;
+    border: 20px solid;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 4px 4px 10px;
+    color: #B3BFFF;
+    border-radius:30px;
+    
+}
+
+
+.fast{
+      width: 100%;
+      border-radius:30px;
+      align-items: center;
+}
+
+
+.ELEPHANT{
+    width: 280px;
+    border: 20px solid;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 4px 4px 10px;
+    color: #B3BFFF;
+    border-radius:30px;
+    
+}
+
+
+.biggerr{
+      width: 100%;
+      border-radius:30px;
+      align-items: center;
+}
+
+
+h1{
+    align-items: center;
+}
+
+p{
+      font-family: "Pacifico", cursive;
+       font-style:italic;
+}
+
+h1{
+      font-family:cursive;
+}
+
+body{
+    width: auto;
+    text-align: center;
+}
